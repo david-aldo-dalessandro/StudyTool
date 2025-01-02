@@ -1,0 +1,80 @@
+.repeat-text {
+display: flex;
+justify-content: space-between; /* Distribute headings evenly */
+margin-bottom: 40px; /* Space between the groups of headings */
+}
+
+
+
+.sightWord {
+font-family: Arial, sans-serif;
+font-size: 3em; /* Heading size */
+margin: 0;
+text-align: center;
+flex: 1; /* Ensure equal space distribution between the headings */
+color:lightgrey;
+}
+
+
+.name {
+    font-size: 2em; /* Make your name big enough */
+    font-weight: bold;
+    text-align: center;
+    padding: 15px 0;
+    position: fixed; /* Keep it fixed at the top of the page */
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: white; /* Add a background color to avoid overlap with content */
+    z-index: 1000; /* Make sure it's above other content */
+    border-bottom: 2px solid black; /* Optional: Add a border at the bottom of your name for separation */
+}
+
+@media print {
+
+    .name {
+        position: running(header); /* Keep the name header at the top of each printed page */
+        font-size: 1.5em; /* Make font smaller for print */
+        background-color: white;
+        border-bottom: none; /* Optional: remove border for print */
+    }
+
+}
+
+
+.numbers{
+    page-break-before: always;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-size: 3em; /* Heading size */
+    color: lightgray;
+    justify-content: space-between;
+    
+}
+.equation.stacked {
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+    margin: 20px;
+    float: left;
+    page-break-inside: avoid;
+  }
+  
+  .equation.stacked .number {
+    display: block;
+    margin-left: 1em; /* space for the operator */
+    text-align: right;
+  }
+  
+  .equation.stacked .operator {
+    float: left;
+  }
+  
+  .equation.stacked .equals {
+    display: block;
+    height: 0;
+    border-bottom: solid 1px black;
+    overflow: hidden;
+  }
