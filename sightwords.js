@@ -419,16 +419,221 @@ word_list = [
     //*/
 
     //digraphs
+    //sh 
+    "ship",
+    'shop',
+    "shirt",
+    "sheep",
+    "shoes",
+    "shark",
+    'shot',
+    'sharp',
 
+    //th
+    'theif',
+    'think',
+    'thank',
+    'thin',
+    'thumb',
+    'thunder',
+    'though',
+    'through',
 
+    //ch
+    'chin',
+    'chip',
+    'chair',
+    'chess',
+    'cheese',
+    'choose',
+    'chew',
+    'chicken',
 
+    //ph
+    'photo',
+    'phonics',
+    'phoenix',
+    'physics',
+    'phase',
+    'phalanx',
+    'pharmacy',
+    'physician',
 
+    //wh
+    'wheel',
+    'whisker',
+    'whisk',
+    'whip',
+    'whistle',
+    'whisper',
+    'whirl',
+    'wharf',
 
+    //wr
+    'wrist',
+    'wrap',
+    'wrong',
+    'writhe',
+    'wraith',
+    'wrangle',
+    'wrath',
+    'wrestle',
 
+    //kn
+    'knee',
+    'knife',
+    'knot',
+    'knock',
+    'knight',
+    'knead',
+    'knew',
+    'knob',
 
+    //qu
+    'quiz',
+    'quick',
+    'queen',
+    'quilt',
+    'quite',
+    'quiet',
+    'quack',
+    'quadrant',
 
+    //diagraph ending
+    //ng
+    'sing',
+    'king',
+    'wrong',
+    'song',
+    'lung',
+    'sung',
+    'dang',
+    'sang',
 
+    //ck
+    'duck',
+    'back',
+    'check',
+    'pick',
+    'neck',
+    'truck',
+    'stuck',
+    'brick',
 
+    //sh
+    'fish',
+    'dish',
+    'brush',
+    'cash',
+    'wash',
+    'finish',
+    'wish',
+    'splash',
+
+    //th
+    'bath',
+    'faith',
+    'teeth',
+    'tooth',
+    'both',
+    'booth',
+    'path',
+    'math',
+
+    //ch
+    'inch',
+    'couch',
+    'bench',
+    'lunch',
+    'teach',
+    'beach',
+    'reach',
+    'crunch',
+
+    //digraphs
+
+    //trigraphs
+    //spl
+    'split',
+    'splat',
+    'splash',
+    'splinter',
+    'splay',
+    'splendid',
+    'splurge',
+    'splutter',
+
+    //thre
+    'thrice',
+    'throat',
+    'throw',
+    'throng',
+    'thrall',
+    'thrash',
+    'thrill',
+    'throb',
+
+    //str
+    'straw',
+    'street',
+    'stress',
+    'strong',
+    'strange',
+    'strangle',
+    'strict',
+    'strap',
+
+    //spr
+    'spray',
+    'sprain',
+    'sprint',
+    'spring',
+    'spritz',
+    'spruce',
+    'spry',
+    'sprig',
+
+    //scr
+    'screen',
+    'scream',
+    'screw',
+    'scratch',
+    'scrape',
+    'scrap',
+    'script',
+    'scroll',
+
+    //squ
+    'squid',
+    'squash',
+    'squirrel',
+    'squabble',
+    'squad',
+    'squat',
+    'squint',
+    'squirt',
+
+    //tch
+    'watch',
+    'witch',
+    'match',
+    'catch',
+    'hatch',
+    'snatch',
+    'batch',
+    'pitch',
+
+    //dge
+    'edge',
+    'judge',
+    'badge',
+    'bridge',
+    'ridge',
+    'dodge',
+    'lodged',
+    'fudge',
+
+    
 
 
 
