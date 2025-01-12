@@ -551,6 +551,235 @@ word_list = [
     'crunch',
 
     //digraphs
+    //cr
+    'cry',
+    'crab',
+    'cross',
+    'crown',
+    'crate',
+    'cream',
+    'crack',
+    'cram',
+
+    //cl
+    'clam',
+    'clown',
+    'cloud',
+    'clock',
+    'clean',
+    'clothes',
+    'click',
+    'close',
+
+    //br
+    'brush',
+    'bread',
+    'break',
+    'brisk',
+    'brother',
+    'bronze',
+    'brink',
+    'bristle',
+
+    //bl
+    'blink',
+    'blow',
+    'blind',
+    'block',
+    'blimp',
+    'blend',
+    'blush',
+    'blunder',
+
+    //dr
+    'dry',
+    'drum',
+    'drive',
+    'draw',
+    'dress',
+    'dread',
+    'drink',
+    'drift',
+
+    //fl
+    'flew',
+    'flu',
+    'flame',
+    'flag',
+    'floor',
+    'flight',
+    'flank',
+    'flow',
+
+    //fr
+    'frog',
+    'fruit',
+    'france',
+    'fries',
+    'frame',
+    'fractal',
+    'fraction',
+    'fragment',
+
+    //gl
+    'glow',
+    'glad',
+    'glass',
+    'gloves',
+    'glide',
+    'glacier',
+    'glitz',
+    'glamor',
+
+    //gr
+    'grade',
+    'grand',
+    'grapes',
+    'grind',
+    'greed',
+    'grit',
+    'greek',
+    'ground',
+
+    //pl
+    'plate',
+    'plant',
+    'plug',
+    'placate',
+    'place',
+    'placebo',
+    'placid',
+    'plague',
+
+    //pr
+    'prize',
+    'print',
+    'praise',
+    'price',
+    'proud',
+    'prince',
+    'prune',
+    'procure',
+
+    //sc
+    'scan',
+    'scarf',
+    'scoop',
+    'scar',
+    'scout',
+    'score',
+    'screech',
+    'scab',
+
+    //sk
+    'ski',
+    'skin',
+    'skate',
+    'skip',
+    'ska',
+    'skeleton',
+    'sketch',
+    'skeptical',
+
+    //sl
+    'sled',
+    'slow',
+    'slide',
+    'slip',
+    'slug',
+    'sleep',
+    'slope',
+    'sling',
+
+    //sm
+    'smell',
+    'small',
+    'smoke',
+    'smile',
+    'smart',
+    'smooth',
+    'smother',
+    'smite',
+
+    //sn
+    'snap',
+    'snail',
+    'snarky',
+    'snot',
+    'snort',
+    'sneeze',
+    'snide',
+    'snare',
+
+    //sp
+    'speak',
+    'spice',
+    'spur',
+    'spite',
+    'spire',
+    'spree',
+    'spool',
+    'spore',
+
+    //st
+    'stamp',
+    'stone',
+    'stutter',
+    'stack',
+    'stain',
+    'stall',
+    'stare',
+    'steer',
+
+    //sw
+    'swamp',
+    'sweat',
+    'sweep',
+    'swan',
+    'sweet',
+    'swing',
+    'swig',
+    'swish',
+
+    //tr
+    'trip',
+    'trick',
+    'trunk',
+    'treat',
+    'treasure',
+    'treason',
+    'traitor',
+    'tried',
+
+    //tw
+    'twin',
+    'twist',
+    'twig',
+    'twice',
+    'tweezers',
+    'twinge',
+    'twilight',
+    'twinkle',
+
+    //nd
+    'send',
+    'wind',
+    'stand',
+    'sand',
+    'pond',
+    'bend',
+    'ascend',
+    'descend',
+
+    //nk
+    'bank',
+    'yank',
+    'tank',
+    'wink',
+    'crank',
+    'punk',
+    'junk',
+    'monk',
 
     //trigraphs
     //spl
@@ -633,7 +862,7 @@ word_list = [
     'lodged',
     'fudge',
 
-    
+
 
 
 
