@@ -1596,7 +1596,7 @@ word_list = [
 'action',
 'actually',
 'adjective',
-'afriad',
+'afraid',
 'agreed',
 'ahead',
 'allow',
